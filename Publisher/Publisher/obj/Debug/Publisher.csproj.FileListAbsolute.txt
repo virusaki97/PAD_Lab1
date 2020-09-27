@@ -1,0 +1,14 @@
+D:\UTM\Lucrari de laborator\PAD\Publisher\Publisher\bin\Debug\Publisher.exe.config
+D:\UTM\Lucrari de laborator\PAD\Publisher\Publisher\bin\Debug\Publisher.exe
+D:\UTM\Lucrari de laborator\PAD\Publisher\Publisher\bin\Debug\Publisher.pdb
+D:\UTM\Lucrari de laborator\PAD\Publisher\Publisher\obj\Debug\Publisher.csprojResolveAssemblyReference.cache
+D:\UTM\Lucrari de laborator\PAD\Publisher\Publisher\obj\Debug\Publisher.csproj.CoreCompileInputs.cache
+D:\UTM\Lucrari de laborator\PAD\Publisher\Publisher\obj\Debug\Publisher.exe
+D:\UTM\Lucrari de laborator\PAD\Publisher\Publisher\obj\Debug\Publisher.pdb
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Publisher\Publisher\bin\Debug\Publisher.exe.config
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Publisher\Publisher\bin\Debug\Publisher.exe
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Publisher\Publisher\bin\Debug\Publisher.pdb
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Publisher\Publisher\obj\Debug\Publisher.csprojResolveAssemblyReference.cache
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Publisher\Publisher\obj\Debug\Publisher.csproj.CoreCompileInputs.cache
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Publisher\Publisher\obj\Debug\Publisher.exe
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Publisher\Publisher\obj\Debug\Publisher.pdb
